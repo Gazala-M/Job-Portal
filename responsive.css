@@ -4,6 +4,9 @@
     width: 270px;
     height: 240px;
 }
+        .blog{
+        margin-top: 15px;
+    }
 }
 
 @media only screen and (max-width: 1200px){
