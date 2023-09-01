@@ -394,7 +394,7 @@ nav ul li ul li a {
     content: "";
 
     height: 100vh;
-    background: url('../images/hometop-bg.png') no-repeat center center/cover;
+    background: url('hometop-bg.png') no-repeat center center/cover;
 
     padding-top: 50px;
     overflow: hidden;
